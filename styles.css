@@ -6,6 +6,11 @@
 
 }
 
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
 header {
     margin: 44px 0 144px 76px;
 }
@@ -17,7 +22,6 @@ header {
     color: #989D9C;
     cursor: pointer;
     margin-right: 23px;
-    cursor: pointer;
 }
 
 .button-reader {
